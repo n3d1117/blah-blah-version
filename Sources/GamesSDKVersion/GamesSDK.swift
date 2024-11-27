@@ -6,5 +6,5 @@
 //
 
 public enum GamesSDK {
-    public static let version = "0.0.0"
+    public static let version = "0.0.1"
 }
